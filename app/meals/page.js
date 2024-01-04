@@ -3,6 +3,8 @@ import Link from "next/link";
 import MealsGrid from "@/components/meals/meals-grid";
 
 function MealsPage() {
+
+
     return (
         <>
             <header className={classes.header}>
