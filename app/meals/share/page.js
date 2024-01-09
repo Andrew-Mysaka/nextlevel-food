@@ -3,7 +3,7 @@
 import {useFormState} from "react-dom";
 
 import classes from './page.module.css';
-import ImagePicker from "@/app/meals/image-picker";
+import ImagePicker from "@/components/meals/image-picker";
 import {shareMeal} from "@/lib/action";
 import MealsFomSubmit from "@/components/meals/meals-fom-submit";
 
